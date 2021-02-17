@@ -1,0 +1,8 @@
+Origin: 41oe
+Label: 41oe
+Suite: stable
+Version: 1.90.3
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 41oe - a cydia repo 

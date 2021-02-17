@@ -1,0 +1,20 @@
+Package: com.lg.tsum
+Architecture: iphoneos-arm
+Version: null
+Section: Tweaks
+Maintainer:
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: ./debs/com.lg.tsum_null_iphoneos-arm.deb
+Size: 202742
+MD5sum: d2511dc21bf8fc743bee307cd14edcfd
+SHA1: a9de057981f539382b198e194c7df30470d68441
+SHA256: dfa466ebe8d0c9ada934bbd2f29edd859c4548a032edf25dc9ce007593cc340b
+SHA512: 7048ce01dba0787565bd55a672510652fc98f73fa13756ef8239a10e5a9655748cdcff344c569516b5be6f22cb77f07a64c826dcc18708ce83f5933b66ec004a
+Homepage:
+Description:
+Name: TsumTsumModMenu
+Author:
+Icon:
+Depiction: https://ios41oe.github.io/41oe/index.html
+
