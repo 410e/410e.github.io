@@ -4,16 +4,16 @@ Version: null
 Maintainer:
 Installed-Size: 428
 Depends: mobilesubstrate
-Filename: ./debs/com.lg.tsum.deb
-Size: 202762
-MD5sum: 5dbc33bf0685aa4593b7aab516da202d
-SHA1: 78ab4f6b4f78d7884ad1d0419ffe1f38d37eebd2
-SHA256: 87b8a4d7fa20fd6ec3bac9672115f68dd7034a488ae997e3ea4646a12dc09199
-SHA512: 6c93af3e7b070e5532e8e3a19f3249f9a374cb2e82a469f399c99d0d9b33ef1cdd2d14a2b41d7cac2539a998342cc3e33db6d2249665de5db505e3ec2dda3217
+Filename: ./debs/com.lg.tsum_null_iphoneos-arm.deb
+Size: 205096
+MD5sum: 5e6861535bdcecc984abc3396de7d8c4
+SHA1: 55b91ccdd507949078c2a37b837e0fedf7d33dc3
+SHA256: c81c45cf3355d29604517e02c4b27092f29371b6e8549d3db6a06b2ca17e361a
+SHA512: 4d9cc392dc46dcd0f277cd0cc8e963ec0be654d9fdfcdefadecade66e990e2f50359ab903aa5237cb06d2984d3301a141702f996c7b5c00230ce2369c3d409cd
 Homepage:
 Description:
 Name: TsumTsumMod
 Author:
-Icon: https://github.com/410e/410e.github.io/blob/master/icon/tsum.png
+Icon: file///icon/tsum.png
 Depiction: https://ios41oe.github.io/41oe/index.html
 
