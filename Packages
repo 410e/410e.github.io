@@ -1,3 +1,23 @@
+Package: com.twickd.sarahh12099.youtube-reborn
+Architecture: iphoneos-arm
+Version: 1.0.2.2
+Section: Tweaks
+Maintainer: SarahH12099 <sarahh12099@gmail.com>
+Installed-Size: 296
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debs/YouTubeReborn.deb
+Size: 43540
+MD5sum: 6715447a2f1817f80c4d6bbf7eeeaaee
+SHA1: c8828126d4e04afe5fee749b1faa54918f92dfb0
+SHA256: f431f8268584f4ef36441e7740e82e7e7cd82e3df1d6de136e82f808fe622bd9
+SHA512: 7c854d2c884c790291aae125f25c55142ee3eb452fa2bd1e90f94b99e6cc2639fc32660f311e4cca34f685be3a85f02babbd7cd0d6ccc5b7e1358c2105c407e5
+Description: YouTube Customizer
+Tag: compatible_min::ios9.0, compatible_max::ios13.3
+Name: YouTube Reborn
+Author: SarahH12099 <sarahh12099@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.sarahh12099.youtube-reborn
+SileoDepiction: https://repo.twickd.com/package/com.twickd.sarahh12099.youtube-reborn/native
+
 Package: com.41oe.knives
 Architecture: iphoneos-arm
 Version: null
@@ -18,6 +38,29 @@ Author:
 Icon:
 Depiction:
 
+Package: com.cemck.killx
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: cemck <cem_ck@icloud.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.cemck.killx_1.0_iphoneos-arm.deb
+Size: 68182
+MD5sum: a7628de664f8f5aca3e7ae2db0d57126
+SHA1: 4b1d6b78fd47618322bcc43f0fb4c5a6bf2aab23
+SHA256: 24c9b92078406fccd85a8c4a66b10fdfd1b28f4b4044707541bf12de4ab3e0eb
+SHA512: 9137b7ce3ffa034ed057421b4f5c22577c47a0b38237d3cd9d6dbc5daef289f1ab6dfc4659aa3dddda9f9c67d81ca5f898f4a39a7e6cd9ef7fcd469c57a6a8d2
+Homepage: https://cemck.github.io/repo
+Description: One swipe to kill them all!
+Tag: role::enduser
+Name: KillX
+Depiction: https://cemck.github.io/repo/depiction/web/com.cemck.killx.html
+SileoDepiction: https://cemck.github.io/repo/depiction/native/com.cemck.killx.json
+ModernDepiction: https://cemck.github.io/repo/depiction/native/com.cemck.killx.json
+Icon: https://cemck.github.io/repo/assets/com.cemck.killx/icon.png
+Author: cemck <cem_ck@icloud.com>
+SomeOtherEntryToControl: True
+
 Package: com.lg.tsum
 Architecture: iphoneos-arm
 Version: null
@@ -36,4 +79,28 @@ Name: TsumTsumMod
 Author:
 Icon: file///icon/tsum.png
 Depiction: https://ios41oe.github.io/41oe/index.html
+
+Package: info.nanato12.linetools2
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 497
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.bluesquare.linetools
+Filename: ./debs/info.nanato12.linetools2_1.5_iphoneos-arm.deb
+Size: 84376
+MD5sum: 39b11c826aad8e328cf9e959f1ebe3c4
+SHA1: ff824fb3dd7fba9c8888b00287a235569dd38b5c
+SHA256: ad9632fbd161b557c7165ea4b3d58692d85edbd282dd7048be8d80dd3ab20246
+SHA512: 17cb6482de9019aace348f6663df056fcb20d7dc7100b4562e1972d0c8885875bc5f06aedca32719643904ef49c18228c10eab3000e239cc8c20211f95d1fd05
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=linetools2Dp
+Description: LINE more extention tool.
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: nanato12 <admin@nanato12.info>
+Name: LINE Tools 2 (iOS 12/13)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=linetools2Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: bluesquare
+Icon: file:///Library/PreferenceBundles/LineToolsPreference.bundle/icon@2x.png
 
