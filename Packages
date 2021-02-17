@@ -68,16 +68,16 @@ Maintainer:
 Installed-Size: 428
 Depends: mobilesubstrate
 Filename: ./debs/com.lg.tsum_null_iphoneos-arm.deb
-Size: 205096
-MD5sum: 5e6861535bdcecc984abc3396de7d8c4
-SHA1: 55b91ccdd507949078c2a37b837e0fedf7d33dc3
-SHA256: c81c45cf3355d29604517e02c4b27092f29371b6e8549d3db6a06b2ca17e361a
-SHA512: 4d9cc392dc46dcd0f277cd0cc8e963ec0be654d9fdfcdefadecade66e990e2f50359ab903aa5237cb06d2984d3301a141702f996c7b5c00230ce2369c3d409cd
+Size: 254046
+MD5sum: 345dfc0020b5a7c02febd2bd324a842e
+SHA1: 843c10543e62ec4aa1f6c29e7f87718cd4f6991f
+SHA256: 5f67cd902943e3368dbbda2f8a76192de8a8a5b8a92bf3af5cceb201ca4342bc
+SHA512: e790fbab1077211ff4a44b37356b67f3528f75a76144d72126c22049825e86cb0c07a200d5b0c68037f12a2a0e25a30aa7977d4bf5f9f042c234af9f29053c0b
 Homepage:
 Description:
 Name: TsumTsumMod
 Author:
-Icon: file///icon/tsum.png
+Icon: file:///Library/PreferenceBundles/LineToolsPreference.bundle/icon@2x.png
 Depiction: https://ios41oe.github.io/41oe/index.html
 
 Package: info.nanato12.linetools2
