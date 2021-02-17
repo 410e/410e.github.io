@@ -1,3 +1,23 @@
+Package: com.41oe.knives
+Architecture: iphoneos-arm
+Version: 1
+Section: Tweaks
+Maintainer:
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debs/com.41oe.knives.deb
+Size: 174366
+MD5sum: c8617af3114a2bc5730d2a98bd280290
+SHA1: 0e7b89e49c827e400c754fbdf588518a6c156d2c
+SHA256: 81771c7130685867a997d1d4dfa3dafea79eaac967dae5764ccc2e2f00fa8f01
+SHA512: 4e27a2ab674c7c1fa63029d7366dd119d0df25dc8e11f869172198e0b2c6371ab12a5a6c192740cd45b6579b6164cedc814185df24b752ca7a040886b6517931
+Homepage:
+Description:
+Name: Knives
+Author:
+Icon:
+Depiction:
+
 Package: com.lg.tsum
 Architecture: iphoneos-arm
 Version: null
