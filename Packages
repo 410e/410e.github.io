@@ -24,16 +24,15 @@ Version: null
 Maintainer:
 Installed-Size: 428
 Depends: mobilesubstrate
-Filename: ./debs/com.lg.tsum_null_iphoneos-arm.deb
-Size: 209852
-MD5sum: 35438fc3c5d91ac49e00072240851936
-SHA1: 55f44a1a7468668103fd55ee0f35159c53c87c9d
-SHA256: e965b4ac85eef246290951a202769cae6a49b8eda6b53d9330fed8d72e3fac6c
-SHA512: ec8c084526594d4732b133575a5278661aa1e348ef526d760cb9af972de832ad26fbbb981957f12505d3d9a0a982129f0e5c2a312fc22146d1f78e9f3e032408
+Filename: ./debs/tsum.deb
+Size: 202732
+MD5sum: 4548479025713fbc2a009de686a9bdfa
+SHA1: cfe7d3bdd30d3ae287b3248fe5253a84cd2faf07
+SHA256: cbf297415103727a389b3e5fd1b264f17e5e8ac82829285b661b282865404965
+SHA512: d22e495106f759fa7a9c0e840bbb210fbb12b4ec6151832b73230e8ce02d65c1c774ec56599261a92408d4f061a8466c8a8da9379b881277320c10c5d10ddcb9
 Homepage:
 Description:
 Name: TsumTsumModMenu
 Author:
-Icon: file:///Library/PreferenceBundles/LineToolsPreference.bundle/icon@2x.png
 Depiction: https://ios41oe.github.io/41oe/index.html
 
