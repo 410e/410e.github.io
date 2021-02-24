@@ -20,19 +20,20 @@ Depiction:
 
 Package: com.lg.tsum
 Architecture: iphoneos-arm
-Version: null
-Maintainer:
+Version: 1.90.3
+Section: Tweaks
+Maintainer: System Administrator
 Installed-Size: 428
 Depends: mobilesubstrate
-Filename: ./debs/com.lg.tsum_null_iphoneos-arm.deb
-Size: 202734
-MD5sum: 573d4e9540a5dd458614fbed1ad41eca
-SHA1: 60d01bcff4ae856b8fd71f18013ee43438c356e1
-SHA256: e0b3fa3e6d3e714a7fac0852435686f0d7e472744e8b22b1a9fdb5b7dfa105bc
-SHA512: 67e9576b4892abeda3f3fa20f26195507ebf49ffd0aa9ec2b476c7e36366bd18063114ff6147025ffa925dd5f20cfb000c646fbb5bbc881257bcc9842bde46e9
+Filename: ./debs/com.lg.tsum_1.90.3_iphoneos-arm.deb
+Size: 203270
+MD5sum: 1347eb43cf4df7a7f9d6d71f0dd599ad
+SHA1: 7a8a77cb4152b5a25ac08043b38334c848dde2f5
+SHA256: 23a2875ec4daad8c9dbf590870e71c6ec185f787c9e06c13802237973930051e
+SHA512: f5e598bef212ff1a1a186c807a110778cb0a6426f4f80f7bad29c2a5841306b5d6cc60fbd1451f37b137ceca0b182f0792a25c995a8760bc4b9e499274a9bdce
 Homepage:
 Description:
-Name: TsumTsumModMenu
-Author:
-Depiction: https://410e.github.io/41oexx.github.io/
+Name: TsumTsum
+Author: System Administrator
+Depiction: https://ios41oe.github.io/41oe/index.html
 
