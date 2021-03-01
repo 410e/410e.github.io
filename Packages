@@ -20,17 +20,17 @@ Depiction:
 
 Package: com.lg.tsum
 Architecture: iphoneos-arm
-Version: null
+Version: 0.1
 Section: Tweaks
 Maintainer:
 Installed-Size: 428
 Depends: mobilesubstrate
-Filename: ./debs/com.lg.tsum_null_iphoneos-arm.deb
-Size: 205142
-MD5sum: fe552bc150bdaaa458fcf97a8af88b27
-SHA1: cfe2021de40db041e06f1aa288f95c5fe1edec31
-SHA256: 7e286359be66753ec3e0e1ef9520d47e0bec1a616b675252a81b56aaf563e6ef
-SHA512: 286fe1be376eb5df4eccb0eab56743c3d1228c196d2b81c6339a1a8738ff9c28c7456b77cf507bb532c00a52bb88c5ce83a4dbb9a95f4d869c8196928bd73356
+Filename: ./debs/com.lg.tsum_0.1_iphoneos-arm.deb
+Size: 205148
+MD5sum: b092e7b8a4e3d2466bf9575dc7bcc1eb
+SHA1: 39d18fd59db82ce5c96efb72307325b079ae088a
+SHA256: 0159ac75fcccf3e9941a334cbac2ab5249687770dc444cf96c22fe1fe8eb7306
+SHA512: 5bcaa8958c09a96c9c8c72d778c760eb22af4491b58b62c70dcab997c346da68293ef604d54739895505444cfc0aaa836d868d39209641555adc059a9afc44a4
 Homepage:
 Description:
 Name: TsumTsum
